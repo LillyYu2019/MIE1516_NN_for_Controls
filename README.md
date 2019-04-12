@@ -32,11 +32,11 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
 
 ## File Description:
 
-- Controller_Demo: Contains recorded videos of the controller in action over the rendered environment
-- Models: Contain saved model trained in this project
-- Q-learning.ipynb: Define and train a Q learning algorithm
-- System identification.ipynb: Define and train two NN model to emulate the Cart and Pole system
-- Final Report - Controller Training.ipynb: Final report containing controller model definition and training
+- **Controller_Demo:** Contains recorded videos of the controller in action over the rendered environment
+- **Models:** Contain saved model trained in this project
+- **Q-learning.ipynb:** Define and train a Q learning algorithm
+- **System identification.ipynb:** Define and train two NN model to emulate the Cart and Pole system
+- **Final Report - Controller Training.ipynb:** Final report containing controller model definition and training
 
 ## Reference:
 - GitHub. (2019). openai/gym. [online] Available at: https://github.com/openai/gym/wiki/CartPole-v0 [Accessed 28 Mar. 2019].
