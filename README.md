@@ -2,9 +2,9 @@
 
 For the control of complex non-linear systems for which there are no analytical design techniques, a neural net can be used to implement highly non-linear controllers with internal parameters that can be determined through a learning process. This control method has the benefit of a “black-box” method, where there is no need to determine the analytical model of the system, and there is no need to tune control parameters.
 
-This project investigate the use of four different type of neural network and reinforcemnt learning algorithms that can be used for non-linear controls on the CartPole system on the OpenAI GYM.
+This project investigates the use of four different type of neural network and reinforcement learning algorithms that can be used for non-linear controls on the CartPole system on the OpenAI GYM.
 
-The four architecture were investigate:
+The four architecture were investigated:
 
 **Reinforcement Learning:**
 1. Tabular Q learning with greedy epsilon strategy 
@@ -32,7 +32,7 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
 
 ## File Description:
 
-- Controller_Demo: Contrains recorded videos of the controller in action over the rendered environment
+- Controller_Demo: Contains recorded videos of the controller in action over the rendered environment
 - Models: Contain saved model trained in this project
 - Q-learning.ipynb: Define and train a Q learning algorithm
 - System identification.ipynb: Define and train two NN model to emulate the Cart and Pole system
