@@ -4,7 +4,7 @@ For the control of complex non-linear systems for which there are no analytical 
 
 This project investigate the use of four different type of neural network and reinforcemnt learning algorithms that can be used for non-linear controls on the CartPole system on the OpenAI GYM.
 
-The four architecture investigate were:
+The four architecture were investigate:
 
 **Reinforcement Learning:**
 1. Tabular Q learning with greedy epsilon strategy 
