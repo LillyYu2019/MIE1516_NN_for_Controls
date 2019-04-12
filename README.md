@@ -9,8 +9,6 @@ The four architecture were investigate:
 **Reinforcement Learning:**
 1. Tabular Q learning with greedy epsilon strategy 
 
-<br>
-
 **Neural Net Controls:**
 
 2. 4 Layers Fully Connected 
